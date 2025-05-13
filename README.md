@@ -1,4 +1,4 @@
-# Folder Downloader
+# Github Folder Downloader
 
 A zero-config CLI tool to download specific folders from a GitHub repository — without cloning the whole repo.
 
