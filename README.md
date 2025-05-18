@@ -2,6 +2,8 @@
 
 A zero-config CLI tool to download specific folders from a GitHub repository — without cloning the whole repo.
 
+Use the ***online web version*** here, https://download-folder.github.io/
+
 ## ✨ Features
 
 - Download any subfolder from a GitHub repository ZIP
@@ -121,7 +123,8 @@ npx folder-downloader@latest metallicjs/templates saas-lite my-app-folder
  ## 🛠 Development
 
  ### Clone this repo
-```git clone https://github.com/yourusername/folder-downloader.git
+```bash
+git clone https://github.com/yourusername/folder-downloader.git
 ```
 ### Install deps
 ```cd folder-downloader
